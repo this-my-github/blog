@@ -1,5 +1,5 @@
 # Приложение Блог
-
+## Можно посмотреть только frontend часть с json-server https://github.com/this-my-github/blog-frontend
 ## Страницы:
 ### -Главная
 ### -Статья;
