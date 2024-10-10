@@ -1,5 +1,5 @@
 # Приложение Блог
-## Можно посмотреть только frontend часть с json-server https://github.com/this-my-github/blog-frontend
+## Можно посмотреть по ссылке: [Блог разработчика](http://147.45.154.119:3001)
 ## Страницы:
 ### -Главная
 ### -Статья;
@@ -21,7 +21,7 @@
 ### Установите зависимости  `npm i`
 ### Создайте файл .env в котором должны быть два поля
 #### `DB_CONNECTION_STRING = "mongodb+srv://<username>:<password>@cluster0.imi3n.mongodb.net/blog?retryWrites=true&w=majority&appName=Cluster0"` //Подключение к вашей базе
-#### `JWT_SECRET = "testtest"`
+#### `JWT_SECRET = "yoursecret"`
 ### Запустите приложение `npm run dev`
 
 ## Шаг #3 - Запуск фронтенда
@@ -32,5 +32,4 @@
 ### Запускает приложение в режиме разработки.
 ### Открыть [http://localhost:3000](http://localhost:3000) чтобы посмотреть в вашем браузере.
 
-## Пользователи
-### login: sergey; password: qwe123; Роль: Администратор
+## Можно посмотреть только frontend часть с json-server https://github.com/this-my-github/blog-frontend
